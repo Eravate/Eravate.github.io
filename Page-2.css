@@ -12,28 +12,29 @@
   text-transform: uppercase;
   font-weight: 100;
   width: 652px;
-  margin: 60px auto;
+  margin: 244px auto 60px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 466px;
+    min-height: 469px;
   }
 
   .u-section-1 .u-text-1 {
     width: 662px;
+    margin-top: 60px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 357px;
+    min-height: 359px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 268px;
+    min-height: 269px;
   }
 
   .u-section-1 .u-text-1 {
